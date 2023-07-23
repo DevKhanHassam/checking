@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="650" height="300"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Pradeep Pandey</h1>
+<h1 align="center">Hi 👋, I'm Hassam Khan</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
 - 🌱 I’m currently learning React and building projects using HTML, CSS, and JavaScript. 
@@ -13,16 +13,15 @@
 
 - 💬 Ask me about **JavaScript.**
 
-- 📫 How to reach me **measprdp@gmail.com**
+- 📫 How to reach me **hassamkhan98.com**
 
 - ⚡ Fun fact **I think I am Funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/div_pradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="div_pradeep" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pradeep pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep pandey" height="30" width="40" /></a>
-<a href="https://instagram.com/its_prdp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_prdp" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pradeep pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pradeep pandey" height="30" width="40" /></a>
+
+<a href="www.linkedin.com/in/devhassamkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep pandey" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
