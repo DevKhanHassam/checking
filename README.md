@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Hassam Khan</h1>
-<h3 align="center">A Passionate Frontend Developer From India</h3>
+<h3 align="center">A Passionate Frontend Developer From Pakistan</h3>
 
 - 🌱 I’m currently learning React and building projects using HTML, CSS, and JavaScript. 
 
