@@ -20,10 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/devhassamkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep pandey" height="30" width="40" /></a>
-
+<a href="https://www.linkedin.com/in/devhassamkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hassam Khan" height="30" width="40" /></a>
 </p>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="devhassamkhan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/devhassamkhan?trk=profile-badge">Hassam Khan</a></div>
+              
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
